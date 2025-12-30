@@ -1,0 +1,11 @@
+{
+  "sounds": [
+    {
+      "id": "sound1",
+      "name": "Creak Sound",
+      "file": "sounds/creak.wav",
+      "icon": "icons/door.svg",
+      "color": "#e5e5e5"
+    }
+  ]
+}
