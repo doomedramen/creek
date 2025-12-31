@@ -1,11 +1,18 @@
 {
   "sounds": [
     {
-      "id": "sound1",
-      "name": "Creak Sound",
+      "id": "creak",
+      "name": "Creak",
       "file": "sounds/creak.wav",
       "icon": "icons/door.svg",
       "color": "#e5e5e5"
+    },
+    {
+      "id": "doom",
+      "name": "Doom!?",
+      "file": "sounds/doom.mp3",
+      "icon": "icons/loader.svg",
+      "color": "#FF2A4D"
     }
   ]
 }
