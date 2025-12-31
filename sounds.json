@@ -4,8 +4,7 @@
       "id": "creak",
       "name": "Creak",
       "file": "sounds/creak.wav",
-      "icon": "icons/door.svg",
-      "color": "#e5e5e5"
+      "icon": "icons/door.svg"
     },
     {
       "id": "doom",
@@ -13,6 +12,12 @@
       "file": "sounds/doom.mp3",
       "icon": "icons/loader.svg",
       "color": "#FF2A4D"
+    },
+    {
+      "id": "abuse",
+      "name": "Every time I come here, i am abused",
+      "file": "sounds/abuse.mp3",
+      "icon": "icons/frown.svg"
     }
   ]
 }
